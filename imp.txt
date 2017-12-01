@@ -1,3 +1,11 @@
 https://www.callicoder.com/spring-boot-log4j-2-example/
 
 https://aws.amazon.com/blogs/developer/using-amazon-sqs-with-spring-boot-and-spring-jms/
+
+http://www.baeldung.com/maven-deploy-nexus
+
+https://support.sonatype.com/hc/en-us/articles/213465818-How-can-I-programmatically-upload-an-artifact-into-Nexus-2-
+
+mvn help:effective-settings
+
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/

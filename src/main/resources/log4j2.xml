@@ -22,7 +22,7 @@
 		</RollingFile>
     </Appenders>
     <Loggers>
-        <Logger name="com.TravelBuzzr" level="info" additivity="false">
+        <Logger name="com.TravelBuzzr" level="debug" additivity="false">
             <AppenderRef ref="FileAppender" />
         </Logger>
 
